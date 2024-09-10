@@ -1,3 +1,5 @@
+package algorithmCodeKata;
+
 class Solution8 {
     public int solution(int angle) {
         int answer = 0;

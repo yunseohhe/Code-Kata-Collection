@@ -1,3 +1,5 @@
+package algorithmCodeKata;
+
 class Solution11 {
     public String solution(int num) {
         String answer = "";

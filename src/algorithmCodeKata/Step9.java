@@ -1,3 +1,5 @@
+package algorithmCodeKata;
+
 class Solution9 {
     public int solution(int n) {
         int answer = 0;

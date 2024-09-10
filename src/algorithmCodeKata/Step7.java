@@ -1,3 +1,5 @@
+package algorithmCodeKata;
+
 class Solution7 {
     public int solution(float num1, float num2) {
         float a = num1 / num2 * 1000;
