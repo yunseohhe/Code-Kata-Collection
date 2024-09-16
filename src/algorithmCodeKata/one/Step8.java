@@ -1,4 +1,4 @@
-package algorithmCodeKata;
+package algorithmCodeKata.one;
 
 class Solution8 {
     public int solution(int angle) {

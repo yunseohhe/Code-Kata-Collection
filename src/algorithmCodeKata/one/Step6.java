@@ -1,4 +1,4 @@
-package algorithmCodeKata;
+package algorithmCodeKata.one;
 
 /**
  * @param

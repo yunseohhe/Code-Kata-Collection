@@ -1,4 +1,4 @@
-package algorithmCodeKata;
+package algorithmCodeKata.one;
 
 class Solution7 {
     public int solution(float num1, float num2) {
