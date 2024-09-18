@@ -1,4 +1,4 @@
-package algorithmCodeKata;
+package algorithmCodeKata.two;
 
 import java.util.*;
 
