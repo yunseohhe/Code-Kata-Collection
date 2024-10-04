@@ -1,4 +1,4 @@
-package algorithmCodeKata;
+package algorithmCodeKata.three;
 
 class Solution24 {
     public String solution(String[] seoul) {

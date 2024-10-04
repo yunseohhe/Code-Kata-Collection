@@ -1,4 +1,4 @@
-package algorithmCodeKata;
+package algorithmCodeKata.three;
 
 class Solution30 {
     public String solution(String s) {
