@@ -1,4 +1,4 @@
-package algorithmCodeKata;
+package algorithmCodeKata.four;
 
 class Solution37 {
     public int[][] solution(int[][] arr1, int[][] arr2) {

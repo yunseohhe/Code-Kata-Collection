@@ -1,4 +1,4 @@
-package algorithmCodeKata;
+package algorithmCodeKata.four;
 
 import java.util.*;
 class Solution34 {

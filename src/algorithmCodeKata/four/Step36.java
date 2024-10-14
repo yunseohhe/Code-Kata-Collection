@@ -1,4 +1,4 @@
-package algorithmCodeKata;
+package algorithmCodeKata.four;
 
 class Solution36 {
     public boolean solution(String s) {

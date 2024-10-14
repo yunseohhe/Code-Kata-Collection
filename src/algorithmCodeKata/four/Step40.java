@@ -1,4 +1,4 @@
-package algorithmCodeKata;
+package algorithmCodeKata.four;
 
 class Solution40 {
     public int solution(int n) {

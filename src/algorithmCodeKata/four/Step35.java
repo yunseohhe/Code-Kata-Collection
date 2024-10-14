@@ -1,4 +1,4 @@
-package algorithmCodeKata;
+package algorithmCodeKata.four;
 
 class Solution35 {
     public long solution(int price, int money, int count) {
