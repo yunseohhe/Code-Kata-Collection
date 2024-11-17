@@ -1,6 +1,6 @@
 package programmers;
 
-class Solution {
+class level0 {
     public String solution(String my_string, String overwrite_string, int s) {
         StringBuilder sb = new StringBuilder();
 

@@ -1,7 +1,6 @@
 package programmers;
 
-import java.util.*;
-class Solution1 {
+class level1 {
     public String solution(String str1, String str2) {
         StringBuilder sb = new StringBuilder();
 
