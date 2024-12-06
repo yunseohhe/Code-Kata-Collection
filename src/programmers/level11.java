@@ -47,9 +47,11 @@ class level11 {
 * 제한사항
 * 1 ≤ code의 길이 ≤ 100,000
 * code는 알파벳 소문자 또는 "1"로 이루어진 문자열입니다.
+
 * 입출력 예
 * code	result
 * "abc1abc1abc"	"acbac"
+
 * 입출력 예 설명
 * 입출력 예 #1
 *
