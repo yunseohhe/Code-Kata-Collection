@@ -28,6 +28,7 @@ class level9 {
 *
 * 제한 사항
 * 1 ≤ n, m ≤ 100
+
 * 입출력 예
 * ineq	eq	n	m	result
 * "<"	"="	20	50	1
